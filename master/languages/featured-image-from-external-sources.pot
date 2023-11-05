@@ -1,0 +1,216 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Image from External Sources\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-20 16:33+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: featured-image-from-external-sources.php:1412
+msgid ""
+"<p><strong>But if you like this plugin and want to give me some "
+"bounty</strong> or you wish to sponsor some specific feature, you're welcome "
+"to <strong>send me a donation</strong>. All sponsors are published on the "
+"plugin page at the bottom. <strong>Thank you!</strong></p>"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1340
+#: featured-image-from-external-sources.php:1365
+msgid "Article title"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1130
+msgid "Buy me a beer"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1324
+msgid "Co-op assistant notifications"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1416
+msgid "Custom amount"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1316
+msgid "Default email"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1339
+msgid "Email body"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1364
+msgid "Email body <br /> <small> for  assistant: </small>"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1316
+msgid "Email for sending draft article previews"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1130
+msgid "Email me"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1331
+msgid "Email subject"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1356
+msgid "Email Subject <br /> <small> for assistant: </small>"
+msgstr ""
+
+#: featured-image-from-external-sources.php:350
+msgid "External Source timeout. Please try again later."
+msgstr ""
+
+#. Description of the plugin
+msgid "Fastest way to choose thumbnail for your posts."
+msgstr ""
+
+#. Name of the plugin
+msgid "Featured Image from External Sources"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1331
+#: featured-image-from-external-sources.php:1339
+msgid "for an assistant"
+msgstr ""
+
+#: featured-image-from-external-sources.php:326
+msgid "Found"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1240
+msgid "Global Settings"
+msgstr ""
+
+#: featured-image-from-external-sources.php:25
+#, php-format
+msgid ""
+"Hello, <br/> <br/>\n"
+"preview photo for <strong> %%ARTICLE%% </strong> were just added."
+msgstr ""
+
+#: featured-image-from-external-sources.php:19
+#, php-format
+msgid ""
+"Hello, <br/> <br/>\n"
+"you were prompted to select a suitable opening photo for <strong> "
+"%%ARTICLE%% </strong>. <br/> <br/>\n"
+"To select a photo, just click on the photo. <br/> <br/>\n"
+"%% HTMLCONTENT %%"
+msgstr ""
+
+#. URI of the plugin
+msgid ""
+"http://wordpress.org/extend/plugins/featured-image-from-external-sources/"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.dadok.cz/"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1276
+msgid "I Agree this Terms of Use"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1411
+msgid "I love to develop plugins</strong> to you <strong>for free!</strong>"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1301
+msgid ""
+"Never again articles without featured photos. Even for the blind. The plugin "
+"allows a blind user to enter a keyword to find a number of thumbnail "
+"suggestions and send this selection to the seeing assistant by e-mail. The "
+"assistant simply clicks on the best photo directly in the email and the "
+"photo is safely matched to the article preview."
+msgstr ""
+
+#: featured-image-from-external-sources.php:1349
+msgid "Notification for post author"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ondřej Dadok"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1255
+msgid "Photos will be loaded from this server"
+msgstr ""
+
+#: featured-image-from-external-sources.php:826
+msgid "Plugin settings"
+msgstr ""
+
+#: featured-image-from-external-sources.php:24
+msgid "Preview photo was selected"
+msgstr ""
+
+#: featured-image-from-external-sources.php:843
+msgid "Publishers E-mail"
+msgstr ""
+
+#: featured-image-from-external-sources.php:18
+msgid "Request for photo selection"
+msgstr ""
+
+#: featured-image-from-external-sources.php:326
+msgid "results"
+msgstr ""
+
+#: featured-image-from-external-sources.php:843
+msgid "Send image suggestions to a collaborator"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1143
+msgid "Settings"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1255
+msgid "Source of external search"
+msgstr ""
+
+#: sponsors.php:3
+msgid "Sponsors"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1295
+msgid "Support for the blind users"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1340
+msgid "Table of suggested photos"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1267
+msgid "Terms of Use"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1311
+msgid "Turn on blind support"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1130
+msgid "Visit site"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1269
+msgid ""
+"WARNING: All images & photos from commercial sources have reserved rights, "
+"so don't use them without a valid license! Author of this plugin are not "
+"liable for any damages arising from its use."
+msgstr ""
+
+#: featured-image-from-external-sources.php:826
+msgid "You must agree a Terms of Use in"
+msgstr ""

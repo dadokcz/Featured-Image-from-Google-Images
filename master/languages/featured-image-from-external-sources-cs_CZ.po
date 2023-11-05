@@ -1,0 +1,244 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Featured Image from External Sources\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-01-20 18:38+0000\n"
+"PO-Revision-Date: 2020-01-20 18:38+0000\n"
+"Last-Translator: dadok <info@dadok.cz>\n"
+"Language-Team: Čeština\n"
+"Language: cs_CZ\n"
+"Plural-Forms: nplurals=3; plural=( n == 1 ) ? 0 : ( n >= 2 && n <= 4 ) ? 1 : "
+"2;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.1; wp-5.3.2"
+
+#: sponsors.php:3
+msgid "Sponsors"
+msgstr "Sponzoři"
+
+#: featured-image-from-external-sources.php:19
+msgid "Request for photo selection"
+msgstr "Výzva k vybrání fotografie"
+
+#: featured-image-from-external-sources.php:20
+#, php-format
+msgid ""
+"Hello, <br/> <br/>\n"
+"you were prompted to select a suitable opening photo for <strong> "
+"%%ARTICLE%% </strong>. <br/> <br/>\n"
+"To select a photo, just click on the photo. <br/> <br/>\n"
+"%%HTMLCONTENT%%"
+msgstr ""
+"Dobrý den,<br/><br/>\n"
+"byl jste vyzván k vybrání vhodné úvodní fotografie k článku <strong>"
+"%%ARTICLE%%</strong>.<br/><br/>\n"
+"Pro vybrání fotografie stačí na konkrétní fotografii kliknout.<br/><br/>\n"
+"%%HTMLCONTENT%%"
+
+#: featured-image-from-external-sources.php:25
+msgid "Preview photo was selected"
+msgstr "Náhledová fotografie byla právě vybrána."
+
+#: featured-image-from-external-sources.php:26
+#, php-format
+msgid ""
+"Hello, <br/> <br/>\n"
+"preview photo for <strong> %%ARTICLE%% </strong> were just added."
+msgstr ""
+"Dobrý den, <br/> <br/>\n"
+"náhledová fotografie k článku <strong> %%ARTICLE%% </strong> byla právě "
+"vybrána."
+
+#: featured-image-from-external-sources.php:322
+msgid "Found"
+msgstr "Nalezeno"
+
+#: featured-image-from-external-sources.php:322
+msgid "results"
+msgstr "výsledků"
+
+#: featured-image-from-external-sources.php:346
+msgid "External Source timeout. Please try again later."
+msgstr "Časový limit externího zdroje vypršel. Prosím zkuste to znovu později."
+
+#. Name of the plugin
+#: featured-image-from-external-sources.php:565
+#: featured-image-from-external-sources.php:1104
+#: featured-image-from-external-sources.php:1104
+#: featured-image-from-external-sources.php:1122
+msgid "Featured Image from External Sources"
+msgstr "Úvodní fotografie z externích zdrojů"
+
+#: featured-image-from-external-sources.php:820
+msgid "You must agree a Terms of Use in"
+msgstr "Musíte odsouhlasit podmínky používání pluginu v "
+
+#: featured-image-from-external-sources.php:820
+msgid "Plugin settings"
+msgstr "Nastavení pluginu"
+
+#: featured-image-from-external-sources.php:834
+msgid "Search Thumbnails"
+msgstr ""
+
+#: featured-image-from-external-sources.php:837
+msgid "Send image suggestions to assistent"
+msgstr ""
+
+#: featured-image-from-external-sources.php:837
+msgid "Publishers E-mail"
+msgstr ""
+
+#: featured-image-from-external-sources.php:1124
+msgid "Visit site"
+msgstr "Zobrazit web"
+
+#: featured-image-from-external-sources.php:1124
+msgid "Email me"
+msgstr "Napište mi"
+
+#: featured-image-from-external-sources.php:1124
+msgid "Buy me a beer"
+msgstr "Podpořit autora"
+
+#: featured-image-from-external-sources.php:1137
+msgid "Settings"
+msgstr "Nastavení"
+
+#: featured-image-from-external-sources.php:1234
+msgid "Global Settings"
+msgstr "Globální nastavení"
+
+#: featured-image-from-external-sources.php:1249
+msgid "Source of external search"
+msgstr "Zdroj hledání fotografií"
+
+#: featured-image-from-external-sources.php:1249
+msgid "Photos will be loaded from this server"
+msgstr "Fotografie budou načítány z tohoto serveru"
+
+#: featured-image-from-external-sources.php:1261
+msgid "Terms of Use"
+msgstr "Podmínky používání"
+
+#: featured-image-from-external-sources.php:1263
+msgid ""
+"WARNING: All images & photos from commercial sources have reserved rights, "
+"so don't use them without a valid license! Author of this plugin are not "
+"liable for any damages arising from its use."
+msgstr ""
+"VAROVÁNÍ: Všechny obrázky a fotografie z komerčních zdrojů mají vyhrazená "
+"práva, proto je nepoužívejte bez platné licence! Autor tohoto pluginu "
+"nezodpovídá za žádné škody vzniklé jeho používáním."
+
+#: featured-image-from-external-sources.php:1270
+msgid "I Agree this Terms of Use"
+msgstr "Souhlasím s podmínky používání"
+
+#: featured-image-from-external-sources.php:1289
+msgid "Support for the blind users"
+msgstr "Podpora pro nevidomé"
+
+#: featured-image-from-external-sources.php:1295
+msgid ""
+"Never again articles without featured photos. Even for the blind. The plugin "
+"allows a blind user to enter a keyword to find a number of thumbnail "
+"suggestions and send this selection to the seeing assistant by e-mail. The "
+"assistant simply clicks on the best photo directly in the email and the "
+"photo is safely matched to the article preview."
+msgstr ""
+"Již nikdy články bez úvodních fotografií. A to i pro nevidomé. Plugin "
+"umožňuje nevidomému uživateli zadat klíčové slovo pro vyhledání množství "
+"návrhů náhledových fotek a tento výběr jedním kliknutím odeslat vidícímu "
+"asistentovi na e-mail. Asistent jednoduše klikne na nejvhodnější fotografii "
+"přímo v e-mailu a fotka se bezpečně přiřadí k náhledu článku."
+
+#: featured-image-from-external-sources.php:1305
+msgid "Turn on blind support"
+msgstr "Zapnout podporu pro nevidomé"
+
+#: featured-image-from-external-sources.php:1312
+msgid "Default email"
+msgstr "Výchozí e-mail"
+
+#: featured-image-from-external-sources.php:1312
+msgid "Email for sending draft article previews"
+msgstr "Výchozí e-mail asistenta pro odesílání návrhů fotografií"
+
+#: featured-image-from-external-sources.php:1320
+msgid "Co-op assistant notifications"
+msgstr "Spolupracující asistent"
+
+#: featured-image-from-external-sources.php:1327
+msgid "Email subject"
+msgstr "Předmět e-mailu"
+
+#: featured-image-from-external-sources.php:1327
+#: featured-image-from-external-sources.php:1335
+msgid "for an assistant"
+msgstr "pro asistenta"
+
+#: featured-image-from-external-sources.php:1335
+msgid "Email body"
+msgstr "Tělo e-mailu"
+
+#: featured-image-from-external-sources.php:1336
+msgid "Table of suggested photos"
+msgstr "Tabulka návrhů fotografií"
+
+#: featured-image-from-external-sources.php:1336
+#: featured-image-from-external-sources.php:1361
+msgid "Article title"
+msgstr "Název článku"
+
+#: featured-image-from-external-sources.php:1345
+msgid "Notification for post author"
+msgstr "Oznámení pro autora příspěvku"
+
+#: featured-image-from-external-sources.php:1352
+msgid "Email Subject <br /> <small> for assistant: </small>"
+msgstr "Předmět e-mailu <br /> <small> pro asistenta: </small>"
+
+#: featured-image-from-external-sources.php:1360
+msgid "Email body <br /> <small> for  assistant: </small>"
+msgstr "Tělo e-mailu <br /> <small> pro asistenta: </small>"
+
+#: featured-image-from-external-sources.php:1407
+msgid "I love to develop plugins</strong> to you <strong>for free!</strong>"
+msgstr "Vyvíjím pro Vás Pluginy <strong>ZDARMA!</strong>"
+
+#: featured-image-from-external-sources.php:1408
+msgid ""
+"<p><strong>But if you like this plugin and want to give me some "
+"bounty</strong> or you wish to sponsor some specific feature, you're welcome "
+"to <strong>send me a donation</strong>. All sponsors are published on the "
+"plugin page at the bottom. <strong>Thank you!</strong></p>"
+msgstr ""
+"<p> <strong> A pokud se Vám tento plugin líbí a chcete mě podpořit </strong> "
+"nebo chcete zasponzorovat nějakou konkrétní funkci, pošlte mi  <strong> na "
+"pivo  </strong>. Všichni sponzoři jsou zveřejněni na stránce pluginu ve "
+"spodní části. <strong> Děkuji! </strong> </p>"
+
+#: featured-image-from-external-sources.php:1412
+msgid "Custom amount"
+msgstr "Libovolná částka"
+
+#. Description of the plugin
+msgid "Fastest way to choose thumbnail for your posts."
+msgstr "Nejrychlejší způsob, jak vybrat miniaturu pro své příspěvky."
+
+#. URI of the plugin
+msgid ""
+"http://wordpress.org/extend/plugins/featured-image-from-external-sources/"
+msgstr ""
+
+#. Author of the plugin
+msgid "Ondřej Dadok"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://www.dadok.cz/"
+msgstr ""
